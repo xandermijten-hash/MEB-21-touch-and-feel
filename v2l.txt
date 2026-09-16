@@ -1,27 +1,21 @@
 V2L
 
-Met de Vehicle-to-Load-functie (V2L) kunnen verschillende elektrische toestellen
-van stroom worden voorzien. Hiervoor is een adapter nodig. 
-Deze adapter wordt in de AC-laadaansluiting geplaatst.
+La fonction Vehicle-to-Load (V2L) permet d'alimenter différents appareils électriques. Un adaptateur est nécessaire pour utiliser cette fonction. Cet adaptateur se branche sur la prise de recharge AC.
 
-De functie kan via het laadmenu van het infotainmentsysteem worden in- en uitgeschakeld.
+La fonction peut être activée et désactivée via le menu de recharge du système d'infodivertissement.
 
-Om V2L te gebruiken, is een adapter met geldige landherkenning nodig. 
-De adapter moet als accessoire worden besteld, bij de aankoop van het voertuig of achteraf. 
-Voor gebruik wordt de adapter in de AC-laadaansluiting gestoken. 
-Vervolgens communiceert hij met de laadeenheid van het voertuig.
+Adaptateur
 
-Er zijn maximaal drie varianten beschikbaar:
+Pour utiliser la fonction V2L, un adaptateur avec détection de pays valide est nécessaire. L'adaptateur doit être commandé comme accessoire, soit lors de l'achat du véhicule, soit ultérieurement. Pour l'utiliser, il faut le brancher sur la prise de recharge AC. Il communique ensuite avec l'unité de recharge du véhicule.
+
+Jusqu'à trois variantes sont disponibles :
 
 Camping
 
-Huishoudelijk stopcontact
+Prise domestique
 
-UK-adapter
+Adaptateur UK
 
-LED-status op de ontlaadadapter
+État de la LED sur l'adaptateur de décharge
 
-Wanneer een adapter wordt herkend, wordt de LED-module voor laadaansluiting 1 L263 
-geactiveerd en geeft deze de actuele status weer. Na het ontgrendelen of
-vergrendelen van het voertuig schakelt de LED na een bepaalde tijd automatisch uit.
-Zodra het systeem opnieuw wordt geactiveerd, gaat de LED weer branden.
+Lorsqu'un adaptateur est détecté, le module LED de la prise de recharge 1 L263 est activé et indique l'état actuel. Après le déverrouillage ou le verrouillage du véhicule, la LED s'éteint automatiquement après un certain temps. Dès que le système est de nouveau activé, la LED se rallume.

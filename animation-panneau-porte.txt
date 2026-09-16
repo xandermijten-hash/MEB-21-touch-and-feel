@@ -1,0 +1,9 @@
+Animation du panneau de porte
+
+La projection de l'animation repose sur le principe de l'émission de lumière à travers un prisme. Ce prisme sépare la lumière en différents faisceaux et les répartit selon leur spectre lumineux en nuances RGB (rouge, vert et bleu), ce qui permet de moduler le spectre des couleurs.
+
+La lumière projetée sur le prisme, ainsi que l'émission lumineuse et les figures affichées, est finalement concentrée puis redirigée vers le prisme de combinaison afin de projeter l'image sur les garnitures de porte du CUPRA Raval.
+
+Le raccordement électrique des projecteurs passe par J519. Le calculateur commande, via le bus LIN, la projection et les animations sélectionnées sur l'écran d'infodivertissement. Les deux projecteurs reçoivent également une alimentation 12 V via la borne 30 (Kl. 30) depuis J519. La liaison à la masse est assurée par la carrosserie du véhicule.
+
+Le réseau de bord (SAM) commande la projection lumineuse via la broche C29 du bus LIN. L'unité alimente également les deux projecteurs via la broche C70.

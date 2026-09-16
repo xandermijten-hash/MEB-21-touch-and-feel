@@ -1,0 +1,13 @@
+Circuit de refroidissement
+
+Le répartiteur de liquide de refroidissement est l'organe de régulation principal du circuit de refroidissement.
+
+Selon la position des vannes de liquide de refroidissement et la commande des pompes installées, différentes parties du circuit de refroidissement sont activées.
+
+Les servomoteurs des vannes mélangeuses sont commandés via le bus LIN, tandis que les pompes sont pilotées par PWM.
+
+Dans le répartiteur de liquide de refroidissement, les vannes sont vissées directement sur le collecteur de liquide de refroidissement. Elles sont actionnées par les servomoteurs V683 et V696.
+
+Afin d'éviter toute inversion des vannes lors du montage, les surfaces de raccordement sont détrompées mécaniquement. Les corps de vanne comportent trois canaux de liquide de refroidissement menant au collecteur, ainsi qu'un raccord de durite. Les volets rotatifs des vannes sont conçus de manière à toujours relier deux raccords entre eux. Ils sont commandés par les vannes mélangeuses, qui constituent l'organe de régulation principal du circuit de refroidissement.
+
+Selon la position des vannes de liquide de refroidissement et la commande des pompes installées, différentes parties du circuit de refroidissement sont activées.
