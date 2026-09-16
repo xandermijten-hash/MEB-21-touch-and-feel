@@ -1,3 +1,13 @@
 Affichage rétro
 
-L'affichage standard moderne de l'écran tactile peut être remplacé par l'affichage rétro à l'aide d'un geste de balayage. Les barres supérieure et inférieure restent identiques ; seul l'écran d'accueil adopte des graphismes inspirés des années 70 et 80. La carte de navigation est présentée dans le style d'un téléviseur de cette époque. La radio s'affiche sous forme d'une échelle de fréquences et le lecteur multimédia sous forme de cassette. Même l'indicateur de niveau de charge reprend le style d'une jauge de carburant classique. Tous ces éléments, ainsi que les Easter eggs (petits symboles graphiques) répartis dans et autour du véhicule, ont simplement pour but de rendre l'utilisation de l'ID. Polo plus agréable. Rien de plus, rien de moins.
+L'affichage standard moderne de l'écran tactile peut être remplacé 
+par l'affichage rétro à l'aide d'un geste de balayage. 
+Les barres supérieure et inférieure restent identiques ; 
+seul l'écran d'accueil adopte des graphismes inspirés des années 70 et 80. 
+La carte de navigation est présentée dans le style d'un téléviseur de cette époque. 
+La radio s'affiche sous forme d'une échelle de fréquences et le lecteur multimédia
+sous forme de cassette. Même l'indicateur de niveau de charge reprend le style
+d'une jauge de carburant classique. Tous ces éléments, ainsi que les Easter eggs 
+(petits symboles graphiques) répartis dans et autour du véhicule, 
+ont simplement pour but de rendre l'utilisation de l'ID. Polo plus agréable. 
+Rien de plus, rien de moins.
