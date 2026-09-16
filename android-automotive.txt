@@ -1,12 +1,32 @@
 Android Automotive
 
 De Škoda Epiq is uitgerust met het nieuwste 13-inch infotainmentsysteem op basis van Android. 
-In vergelijking met de vorige generatie biedt het vernieuwde graphics, opnieuw ontworpen bedieningselementen en een nieuw startscherm met een duidelijke app-indeling in rastervorm.
+In vergelijking met de vorige generatie biedt het vernieuwde graphics, 
+opnieuw ontworpen bedieningselementen en een nieuw startscherm met een duidelijke 
+app-indeling in rastervorm.
 
-Uitgebreide personalisatie-opties en favorieten zorgen voor een intuïtieve bediening. Via Global Search, rechtstreeks bereikbaar bovenaan het infotainmentscherm, kan de gebruiker vanuit één zoekbalk instellingen, apps en inhoud in het volledige systeem doorzoeken. Opgeslagen favorieten, zoals thuis, werk of andere adressen, worden gesynchroniseerd binnen het digitale Škoda-ecosysteem. Zodra ze zijn opgeslagen, zijn ze automatisch beschikbaar in de MyŠkoda-app en in voertuigen met het nieuwe infotainmentsysteem.
+Uitgebreide personalisatie-opties en favorieten zorgen voor een intuïtieve bediening. 
+Via Global Search, rechtstreeks bereikbaar bovenaan het infotainmentscherm, 
+kan de gebruiker vanuit één zoekbalk instellingen, apps en inhoud in het volledige systeem doorzoeken. 
+Opgeslagen favorieten, zoals thuis, werk of andere adressen, worden gesynchroniseerd binnen het digitale Škoda-ecosysteem. 
+Zodra ze zijn opgeslagen, zijn ze automatisch beschikbaar in de MyŠkoda-app en in voertuigen met het nieuwe infotainmentsysteem.
 
-Het navigatiesysteem beschikt ook over geïntegreerde Google Places-zoekfunctie. Daarmee heeft de gebruiker toegang tot een actuele database met nuttige plaatsen (POI's), inclusief beoordelingen, openingsuren, afbeeldingen en contactgegevens. Google Places kan ook via de Laura-spraakassistent worden gebruikt. Daarnaast kan de gebruiker overschakelen van de standaard kaartweergave naar satellietbeelden van Google, als extra visuele ondersteuning bij de oriëntatie. De kaartendatabase van het navigatiesysteem wordt dagelijks bijgewerkt, zodat informatie zoals snelheidslimieten zo actueel mogelijk blijft.
+Het navigatiesysteem beschikt ook over geïntegreerde Google Places-zoekfunctie. 
+Daarmee heeft de gebruiker toegang tot een actuele database met nuttige plaatsen (POI's), 
+inclusief beoordelingen, openingsuren, afbeeldingen en contactgegevens. 
+Google Places kan ook via de Laura-spraakassistent worden gebruikt. 
+Daarnaast kan de gebruiker overschakelen van de standaard kaartweergave naar satellietbeelden van Google, 
+als extra visuele ondersteuning bij de oriëntatie. 
+De kaartendatabase van het navigatiesysteem wordt dagelijks bijgewerkt, 
+zodat informatie zoals snelheidslimieten zo actueel mogelijk blijft.
 
-Naast de standaard Škoda-apps zijn via de Connect Store meer dan 150 apps van externe aanbieders beschikbaar, waaronder Spotify en YouTube. Voertuigen met het digitale Premium Package beschikken bovendien over een inbegrepen maandelijkse databundel van 10 GB voor het gebruik van deze diensten. Het pakket kan samen met de Škoda Connect-diensten via de MyŠkoda-app worden geactiveerd. In die app kan de gebruiker ook het actuele dataverbruik opvolgen.
+Naast de standaard Škoda-apps zijn via de Connect Store meer dan 150 apps van externe aanbieders beschikbaar, 
+waaronder Spotify en YouTube. Voertuigen met het digitale Premium Package beschikken bovendien over 
+een inbegrepen maandelijkse databundel van 10 GB voor het gebruik van deze diensten. 
+Het pakket kan samen met de Škoda Connect-diensten via de MyŠkoda-app worden geactiveerd. 
+In die app kan de gebruiker ook het actuele dataverbruik opvolgen.
 
-De standaard Tips-app werkt als een digitale introductie-assistent en helpt gebruikers voertuigfuncties te ontdekken via praktische tips en videotutorials. De app kan ook functies onder de aandacht brengen die de bestuurder nog niet heeft gebruikt, zodat de mogelijkheden van het voertuig stap voor stap kunnen worden verkend.
+De standaard Tips-app werkt als een digitale introductie-assistent en helpt gebruikers 
+voertuigfuncties te ontdekken via praktische tips en videotutorials. 
+De app kan ook functies onder de aandacht brengen die de bestuurder nog niet heeft gebruikt, 
+zodat de mogelijkheden van het voertuig stap voor stap kunnen worden verkend.
