@@ -1,0 +1,9 @@
+Animatie in deurpaneel
+
+De projectie van de animatie is gebaseerd op lichtemissie door een prisma. Dit prisma splitst het licht in verschillende bundels en verdeelt die volgens het lichtspectrum in RGB-tinten (rood, groen en blauw). Zo wordt het kleurenspectrum gemoduleerd.
+
+Het licht dat op het prisma wordt geprojecteerd, wordt samen met de lichtemissie en de weergegeven figuren gebundeld en doorgestuurd naar het combinatieprisma. Van daaruit wordt het beeld op de deurpanelen van de CUPRA Raval geprojecteerd.
+
+De elektrische aansluiting van de projectoren verloopt via J519. De regeleenheid stuurt via de LIN-bus de projectie en de animaties aan die op het infotainmentscherm worden geselecteerd. Beide projectoren krijgen bovendien een 12V-voeding via klem 30 (Kl. 30) vanuit J519. De massaverbinding loopt via de carrosserie van het voertuig.
+
+Het boordnet (SAM) stuurt de lichtprojectie aan via LIN-buspin C29. De regeleenheid voorziet beide projectoren ook van voeding via pin C70.

@@ -1,0 +1,13 @@
+Koelcircuit
+
+De koelmiddelverdeler is het belangrijkste regelelement in het koelcircuit.
+
+Afhankelijk van de stand van de koelmiddelkleppen en de aansturing van de gemonteerde pompen worden verschillende delen van het koelcircuit geactiveerd.
+
+De servomotoren van de mengkleppen worden via de LIN-bus aangestuurd, terwijl de pompen via PWM worden geregeld.
+
+In de koelmiddelverdeler zijn de koelmiddelkleppen rechtstreeks op het koelmiddelverdeelstuk geschroefd. Ze worden bediend door de servomotoren V683 en V696.
+
+Om te voorkomen dat de kleppen tijdens de montage worden verwisseld, zijn de aansluitvlakken mechanisch gecodeerd. De klephuizen hebben drie koelmiddelkanalen naar het verdeelstuk en daarnaast een slangaansluiting. De roterende kleppen zijn zo ontworpen dat ze altijd twee aansluitingen met elkaar verbinden. Ze worden aangestuurd door de mengkleppen, die het belangrijkste regelelement in het koelcircuit vormen.
+
+Afhankelijk van de stand van de koelmiddelkleppen en de aansturing van de gemonteerde pompen worden verschillende delen van het koelcircuit geactiveerd.

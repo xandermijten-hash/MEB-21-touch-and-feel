@@ -1,0 +1,13 @@
+Verzonken portiergrepen Raval
+
+Elektrische activering van de verzonken portiergrepen.
+
+Om de deur te openen of te sluiten, voedt de regeleenheid van de betreffende deur de elektromotor. Die motor drijft het tandwielmechanisme aan waarmee de portiergreep naar buiten of naar binnen wordt bewogen. De bewegingsrichting wordt bepaald door het ompolen van de voedingsspanning van de elektromotor in het slot.
+
+De deurregeleenheid onderbreekt de voedingsspanning zodra de microschakelaar bovenaan het slot bevestigt dat de eindpositie is bereikt. Inwendig bevat de microschakelaar een weerstand die het circuit sluit wanneer de greep geopend is. Wanneer de greep volledig gesloten is, is het circuit onderbroken.
+
+Afhankelijk van de uitvoering van de verzonken portiergreep is verlichting in de greep geïntegreerd. Dit is een LED die door de deurregeleenheid wordt gevoed.
+
+De microschakelaar bevat intern een schakeling met twee parallel geschakelde weerstanden: 270 ohm en 180 ohm. De totale weerstand bedraagt daardoor ongeveer 108 ohm, wat overeenkomt met een stroom van circa 116 mA. Als de gemeten waarde buiten dit bereik valt, interpreteert de regeleenheid dit als het niet bereiken van de volledige openingsslag.
+
+Verbetering van de Cx door verzonken portiergrepen: 0,001
