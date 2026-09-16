@@ -1,6 +1,7 @@
 Android Automotive
 
-De Škoda Epiq is uitgerust met het nieuwste 13-inch infotainmentsysteem op basis van Android. In vergelijking met de vorige generatie biedt het vernieuwde graphics, opnieuw ontworpen bedieningselementen en een nieuw startscherm met een duidelijke app-indeling in rastervorm.
+De Škoda Epiq is uitgerust met het nieuwste 13-inch infotainmentsysteem op basis van Android. 
+In vergelijking met de vorige generatie biedt het vernieuwde graphics, opnieuw ontworpen bedieningselementen en een nieuw startscherm met een duidelijke app-indeling in rastervorm.
 
 Uitgebreide personalisatie-opties en favorieten zorgen voor een intuïtieve bediening. Via Global Search, rechtstreeks bereikbaar bovenaan het infotainmentscherm, kan de gebruiker vanuit één zoekbalk instellingen, apps en inhoud in het volledige systeem doorzoeken. Opgeslagen favorieten, zoals thuis, werk of andere adressen, worden gesynchroniseerd binnen het digitale Škoda-ecosysteem. Zodra ze zijn opgeslagen, zijn ze automatisch beschikbaar in de MyŠkoda-app en in voertuigen met het nieuwe infotainmentsysteem.
 
