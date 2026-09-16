@@ -1,11 +1,33 @@
 Android Automotive
 
-Le Škoda Epiq est équipé du tout dernier système d'infodivertissement 13 pouces basé sur Android. Par rapport à la génération précédente, il propose de nouveaux graphismes, des commandes repensées et un nouvel écran d'accueil avec une présentation claire des applications sous forme de grille.
+Le Škoda Epiq est équipé du tout dernier système d'infodivertissement 13 
+pouces basé sur Android. Par rapport à la génération précédente, 
+il propose de nouveaux graphismes, des commandes repensées et 
+un nouvel écran d'accueil avec une présentation claire des applications sous forme de grille.
 
-Des possibilités de personnalisation étendues et la gestion des favoris rendent l'utilisation plus intuitive. La fonction Global Search, accessible directement depuis le haut de l'écran d'infodivertissement, permet de rechercher des réglages, des applications et du contenu dans l'ensemble du système à partir d'une seule barre de recherche. Les favoris enregistrés, tels que le domicile, le lieu de travail ou d'autres adresses, sont synchronisés dans l'écosystème numérique Škoda. Une fois enregistrés, ils sont automatiquement disponibles dans l'application MyŠkoda et dans les véhicules équipés du nouveau système d'infodivertissement.
+Des possibilités de personnalisation étendues et la gestion des favoris 
+rendent l'utilisation plus intuitive. La fonction Global Search, accessible 
+directement depuis le haut de l'écran d'infodivertissement, permet 
+de rechercher des réglages, des applications et du contenu dans l'ensemble du système à
+partir d'une seule barre de recherche. Les favoris enregistrés, tels que le domicile,
+le lieu de travail ou d'autres adresses, sont synchronisés dans l'écosystème numérique Škoda.
+Une fois enregistrés, ils sont automatiquement disponibles dans l'application
+MyŠkoda et dans les véhicules équipés du nouveau système d'infodivertissement.
 
-Le système de navigation intègre également la recherche Google Places, qui donne accès à une base de données à jour de points d'intérêt (POI), avec notamment les évaluations, heures d'ouverture, images et coordonnées. Google Places peut aussi être utilisé via l'assistant vocal Laura. L'utilisateur peut également passer de l'affichage cartographique standard aux images satellite de Google, ce qui apporte un repère visuel supplémentaire pour l'orientation. La base de données cartographique de la navigation est mise à jour quotidiennement afin de maintenir à jour des informations telles que les limitations de vitesse.
+Le système de navigation intègre également la recherche Google Places, 
+qui donne accès à une base de données à jour de points d'intérêt (POI), 
+avec notamment les évaluations, heures d'ouverture, images et coordonnées. 
+Google Places peut aussi être utilisé via l'assistant vocal Laura. 
+L'utilisateur peut également passer de l'affichage cartographique standard aux images satellite de Google,
+ce qui apporte un repère visuel supplémentaire pour l'orientation. 
+La base de données cartographique de la navigation est mise à jour 
+quotidiennement afin de maintenir à jour des informations telles que les limitations de vitesse.
 
-En plus des applications Škoda d'origine, plus de 150 applications tierces sont disponibles via le Connect Store, dont Spotify et YouTube. Les véhicules équipés du Premium Package numérique disposent également d'un forfait de données mensuel inclus de 10 Go pour l'utilisation de ces services. Le package peut être activé avec les services Škoda Connect via l'application MyŠkoda, qui permet aussi de consulter la consommation de données actuelle.
+En plus des applications Škoda d'origine, plus de 150 applications tierces sont disponibles
+via le Connect Store, dont Spotify et YouTube. Les véhicules équipés 
+du Premium Package numérique disposent également d'un forfait de données mensuel
+inclus de 10 Go pour l'utilisation de ces services. Le package peut être activé
+avec les services Škoda Connect via l'application MyŠkoda, qui permet aussi 
+de consulter la consommation de données actuelle.
 
 L'application Tips intégrée sert d'assistant numérique de prise en main. Elle aide l'utilisateur à découvrir les fonctions du véhicule à l'aide de conseils pratiques et de tutoriels vidéo. Elle peut également mettre en avant des fonctions que le conducteur n'a pas encore utilisées, afin de découvrir progressivement les possibilités du véhicule.
