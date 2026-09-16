@@ -1,5 +1,21 @@
 Clé numérique
 
-La Digital Key¹ est disponible pour l'Epiq et peut être utilisée à la place d'une clé conventionnelle. La fonction sera progressivement mise à disposition via des mises à jour logicielles et prendra en charge certains appareils Apple, Google et Samsung. La compatibilité avec d'autres smartphones sera étendue progressivement lors de futures mises à jour. La Digital Key permet de verrouiller, déverrouiller et démarrer le véhicule, et facilite le partage du véhicule entre plusieurs conducteurs. Les smartphones et montres connectées compatibles, équipés des technologies Ultra Wideband (UWB) et Bluetooth, offrent le même confort mains libres que le système KESSY. Avec un smartphone compatible NFC, l'utilisateur déverrouille le véhicule en approchant l'appareil de la poignée de porte côté conducteur. Une fois à bord, il place le smartphone sur la zone de recharge sans fil et peut ensuite démarrer le véhicule.
+La Digital Key¹ est disponible pour l'Epiq et peut être utilisée à la place 
+d'une clé conventionnelle. La fonction sera progressivement mise à disposition 
+via des mises à jour logicielles et prendra en charge certains appareils
+Apple, Google et Samsung. La compatibilité avec d'autres smartphones sera étendue 
+progressivement lors de futures mises à jour. La Digital Key permet de verrouiller, 
+déverrouiller et démarrer le véhicule, et facilite le partage du véhicule entre plusieurs conducteurs. 
+Les smartphones et montres connectées compatibles, équipés des technologies 
+Ultra Wideband (UWB) et Bluetooth, offrent le même confort mains libres que le système KESSY. 
+Avec un smartphone compatible NFC, l'utilisateur déverrouille le véhicule en 
+approchant l'appareil de la poignée de porte côté conducteur. Une fois à bord, 
+il place le smartphone sur la zone de recharge sans fil et peut ensuite démarrer le véhicule.
 
-La Digital Key peut être créée via l'application MyŠkoda, le système d'infodivertissement ou une invitation par e-mail. L'utilisateur principal peut la partager de manière sécurisée avec jusqu'à quatre utilisateurs supplémentaires. Lorsque le partage d'une Digital Key n'est pas pratique, par exemple pour un service voiturier, un remorquage ou une inspection en atelier, une Service Card peut être activée afin de donner un accès temporaire au véhicule. Elle est automatiquement désactivée lors du prochain démarrage du véhicule avec une Digital Key ou une clé physique.
+La Digital Key peut être créée via l'application MyŠkoda, le système d'infodivertissement
+ou une invitation par e-mail. L'utilisateur principal peut la partager de manière sécurisée
+avec jusqu'à quatre utilisateurs supplémentaires. Lorsque le partage d'une Digital Key
+n'est pas pratique, par exemple pour un service voiturier, un remorquage ou une inspection en atelier,
+une Service Card peut être activée afin de donner un accès temporaire au véhicule. 
+Elle est automatiquement désactivée lors du prochain démarrage 
+du véhicule avec une Digital Key ou une clé physique.
