@@ -1,21 +1,25 @@
 V2L
 
-La fonction Vehicle-to-Load (V2L) permet d'alimenter différents appareils électriques. Un adaptateur est nécessaire pour utiliser cette fonction. Cet adaptateur se branche sur la prise de recharge AC.
+La fonction Vehicle-to-Load (V2L) permet d'alimenter différents appareils électriques. 
+Un adaptateur est nécessaire pour utiliser cette fonction. 
+Cet adaptateur se branche sur la prise de recharge AC.
 
 La fonction peut être activée et désactivée via le menu de recharge du système d'infodivertissement.
 
-Adaptateur
-
-Pour utiliser la fonction V2L, un adaptateur avec détection de pays valide est nécessaire. L'adaptateur doit être commandé comme accessoire, soit lors de l'achat du véhicule, soit ultérieurement. Pour l'utiliser, il faut le brancher sur la prise de recharge AC. Il communique ensuite avec l'unité de recharge du véhicule.
+Pour utiliser la fonction V2L, un adaptateur avec détection de pays valide est nécessaire. 
+L'adaptateur doit être commandé comme accessoire, soit lors de l'achat du véhicule,
+soit ultérieurement. Pour l'utiliser, il faut le brancher sur la prise de recharge AC.
+Il communique ensuite avec l'unité de recharge du véhicule.
 
 Jusqu'à trois variantes sont disponibles :
 
 Camping
-
 Prise domestique
-
 Adaptateur UK
 
 État de la LED sur l'adaptateur de décharge
 
-Lorsqu'un adaptateur est détecté, le module LED de la prise de recharge 1 L263 est activé et indique l'état actuel. Après le déverrouillage ou le verrouillage du véhicule, la LED s'éteint automatiquement après un certain temps. Dès que le système est de nouveau activé, la LED se rallume.
+Lorsqu'un adaptateur est détecté, le module LED de la prise de recharge 1 L263
+est activé et indique l'état actuel. Après le déverrouillage ou le verrouillage du véhicule,
+la LED s'éteint automatiquement après un certain temps. 
+Dès que le système est de nouveau activé, la LED se rallume.
