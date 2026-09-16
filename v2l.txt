@@ -1,12 +1,15 @@
 V2L
 
-Met de Vehicle-to-Load-functie (V2L) kunnen verschillende elektrische toestellen van stroom worden voorzien. Hiervoor is een adapter nodig. Deze adapter wordt in de AC-laadaansluiting geplaatst.
+Met de Vehicle-to-Load-functie (V2L) kunnen verschillende elektrische toestellen
+van stroom worden voorzien. Hiervoor is een adapter nodig. 
+Deze adapter wordt in de AC-laadaansluiting geplaatst.
 
 De functie kan via het laadmenu van het infotainmentsysteem worden in- en uitgeschakeld.
 
-Adapter
-
-Om V2L te gebruiken, is een adapter met geldige landherkenning nodig. De adapter moet als accessoire worden besteld, bij de aankoop van het voertuig of achteraf. Voor gebruik wordt de adapter in de AC-laadaansluiting gestoken. Vervolgens communiceert hij met de laadeenheid van het voertuig.
+Om V2L te gebruiken, is een adapter met geldige landherkenning nodig. 
+De adapter moet als accessoire worden besteld, bij de aankoop van het voertuig of achteraf. 
+Voor gebruik wordt de adapter in de AC-laadaansluiting gestoken. 
+Vervolgens communiceert hij met de laadeenheid van het voertuig.
 
 Er zijn maximaal drie varianten beschikbaar:
 
@@ -18,4 +21,7 @@ UK-adapter
 
 LED-status op de ontlaadadapter
 
-Wanneer een adapter wordt herkend, wordt de LED-module voor laadaansluiting 1 L263 geactiveerd en geeft deze de actuele status weer. Na het ontgrendelen of vergrendelen van het voertuig schakelt de LED na een bepaalde tijd automatisch uit. Zodra het systeem opnieuw wordt geactiveerd, gaat de LED weer branden.
+Wanneer een adapter wordt herkend, wordt de LED-module voor laadaansluiting 1 L263 
+geactiveerd en geeft deze de actuele status weer. Na het ontgrendelen of
+vergrendelen van het voertuig schakelt de LED na een bepaalde tijd automatisch uit.
+Zodra het systeem opnieuw wordt geactiveerd, gaat de LED weer branden.
