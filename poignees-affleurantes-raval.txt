@@ -2,12 +2,23 @@ Poignées affleurantes du Raval
 
 Activation électrique des poignées affleurantes.
 
-Pour ouvrir ou fermer la porte, le calculateur de chaque porte alimente le moteur électrique. Celui-ci entraîne le mécanisme d'engrenage qui fait sortir ou rentrer la poignée. Le sens de déplacement est déterminé par l'inversion de la polarité d'alimentation du moteur électrique situé dans la serrure.
+Pour ouvrir ou fermer la porte, le calculateur de chaque porte alimente 
+le moteur électrique. Celui-ci entraîne le mécanisme d'engrenage qui 
+fait sortir ou rentrer la poignée. Le sens de déplacement est déterminé 
+par l'inversion de la polarité d'alimentation du moteur électrique situé dans la serrure.
 
-Le calculateur de porte coupe l'alimentation lorsque le microcontact situé dans la partie supérieure de la serrure confirme que la fin de course est atteinte. Le microcontact contient une résistance qui ferme le circuit lorsque la poignée est sortie. Lorsque la poignée est complètement rentrée, le circuit est ouvert.
+Le calculateur de porte coupe l'alimentation lorsque le microcontact situé
+dans la partie supérieure de la serrure confirme que la fin de course est atteinte. 
+Le microcontact contient une résistance qui ferme le circuit lorsque la poignée est sortie.
+Lorsque la poignée est complètement rentrée, le circuit est ouvert.
 
-Selon la version de la poignée affleurante, un éclairage est intégré dans la zone de préhension. Il s'agit d'une LED alimentée par le calculateur de porte.
+Selon la version de la poignée affleurante, un éclairage est intégré
+dans la zone de préhension. Il s'agit d'une LED alimentée par le calculateur de porte.
 
-Le microcontact contient en interne un circuit avec deux résistances montées en parallèle, l'une de 270 ohms et l'autre de 180 ohms. La résistance totale est donc d'environ 108 ohms, ce qui correspond à un courant d'environ 116 mA. Si la valeur mesurée se situe au-dessus ou en dessous de cette plage, le calculateur considère que la course d'ouverture complète n'a pas été atteinte.
+Le microcontact contient en interne un circuit avec deux résistances montées
+en parallèle, l'une de 270 ohms et l'autre de 180 ohms. La résistance totale
+est donc d'environ 108 ohms, ce qui correspond à un courant d'environ 116 mA. 
+Si la valeur mesurée se situe au-dessus ou en dessous de cette plage, 
+le calculateur considère que la course d'ouverture complète n'a pas été atteinte.
 
 Amélioration du Cx grâce aux poignées affleurantes : 0,001
