@@ -1,5 +1,23 @@
 Digitale sleutel
 
-De Digital Key¹ is beschikbaar voor de Epiq en kan worden gebruikt in plaats van een conventionele sleutel. De functie wordt stapsgewijs via software-updates beschikbaar en ondersteunt geselecteerde toestellen van Apple, Google en Samsung. Ondersteuning voor bijkomende smartphones wordt met toekomstige software-updates verder uitgebreid. Met de Digital Key kan de gebruiker het voertuig vergrendelen, ontgrendelen en starten. De functie is ook bedoeld om het voertuig eenvoudig met meerdere bestuurders te delen. Compatibele smartphones en smartwatches met Ultra Wideband (UWB) en Bluetooth bieden hetzelfde handsfree gebruiksgemak als het KESSY-systeem. Met NFC-compatibele smartphones kan het voertuig worden ontgrendeld door het toestel dicht bij de portiergreep aan bestuurderszijde te houden. Eenmaal in het voertuig wordt de smartphone op de draadloze laadmat gelegd, waarna het voertuig kan worden gestart.
+De Digital Key¹ is beschikbaar voor de Epiq en kan worden gebruikt in plaats van een conventionele sleutel. 
+De functie wordt stapsgewijs via software-updates beschikbaar en 
+ondersteunt geselecteerde toestellen van Apple, Google en Samsung. 
+Ondersteuning voor bijkomende smartphones wordt met toekomstige software-updates verder uitgebreid. 
+Met de Digital Key kan de gebruiker het voertuig vergrendelen, ontgrendelen en starten. 
+De functie is ook bedoeld om het voertuig eenvoudig met meerdere bestuurders te delen. 
+Compatibele smartphones en smartwatches met Ultra Wideband (UWB) en 
+Bluetooth bieden hetzelfde handsfree gebruiksgemak als het KESSY-systeem. 
+Met NFC-compatibele smartphones kan het voertuig worden ontgrendeld door het toestel 
+dicht bij de portiergreep aan bestuurderszijde te houden. 
+Eenmaal in het voertuig wordt de smartphone op de draadloze laadmat gelegd, 
+waarna het voertuig kan worden gestart.
 
-De Digital Key kan worden aangemaakt via de MyŠkoda-app, het infotainmentsysteem of een uitnodiging per e-mail. De hoofdgebruiker kan de sleutel veilig delen met maximaal vier extra gebruikers. Voor situaties waarin het delen van een Digital Key niet praktisch is, bijvoorbeeld bij valetparking, slepen of een service-inspectie, kan een Service Card worden geactiveerd voor tijdelijke toegang tot het voertuig. Deze wordt automatisch gedeactiveerd zodra het voertuig de volgende keer met een Digital Key of een fysieke sleutel wordt gestart.
+De Digital Key kan worden aangemaakt via de MyŠkoda-app, 
+het infotainmentsysteem of een uitnodiging per e-mail. 
+De hoofdgebruiker kan de sleutel veilig delen met maximaal vier extra gebruikers. 
+Voor situaties waarin het delen van een Digital Key niet praktisch is, 
+bijvoorbeeld bij valetparking, slepen of een service-inspectie, 
+kan een Service Card worden geactiveerd voor tijdelijke toegang tot het voertuig. 
+Deze wordt automatisch gedeactiveerd zodra het voertuig
+de volgende keer met een Digital Key of een fysieke sleutel wordt gestart.
